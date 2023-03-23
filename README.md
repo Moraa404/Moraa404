@@ -4,6 +4,7 @@
   <img loop="infinite" width="auto" src="https://aniyuki.com/wp-content/uploads/2021/05/gif-aniyuki-zero-two-29.gif">
 </div>
 
+---
 ### 🌱 Hola :D 🌱
  -  © **WebSite:** [Moraa404](https://moraa404.github.io/)
  - 💻 Pentester
@@ -11,5 +12,4 @@
  - 🏆 [Moraa404](https://tryhackme.com/p/mora404)
  ---
  ### TryHackMe Stats
-
-<script src="https://tryhackme.com/badge/314441"></script>
+<img src="https://tryhackme.com/badge/314441" alt="TryHackMe">
