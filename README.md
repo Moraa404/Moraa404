@@ -12,5 +12,5 @@
  - 🏆 [Moraa404](https://tryhackme.com/p/mora404)
  ---
  ### TryHackMe Stats
-<script src="https://tryhackme.com/badge/314441"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/mora404.png" alt="TryHackMe">
 
